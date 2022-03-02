@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeKeeper</string>
+    <string name="add_alarm" />
+    <string name="time">HH:mm</string>
+</resources>
